@@ -18,9 +18,9 @@ for(let button of buttons){
         else{
             input.value+=buttonText;
         }
-
+        //input gets removed after 10 sec if idle
         setTimeout(()=>{
-            
+            input.value=''
         },10000)
     })
 }
