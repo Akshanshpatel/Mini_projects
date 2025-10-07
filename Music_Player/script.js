@@ -8,7 +8,7 @@ const backward=document.querySelector('#backward')
 // Songs array with actual file names
 const songs = [
     { name: 'The Night We Met', file: 'The Night We Met.mp3', id: 1 },
-    { name: 'Time in a Bottle', file: 'Time in a Bottle.mp3', id: 2 },
+    { name: 'Time in a Bottle', file: 'Time in a bottle.mp3', id: 2 },
     { name: 'Zara-sa', file: 'Zara-sa.mp3', id: 3 }
 ];
 
