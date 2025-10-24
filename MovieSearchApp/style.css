@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+}
+
+input{
+    margin-left: 40%;
+}
+figure{
+    border: 2px solid black;
+}
+
+h2{
+    text-align: center;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#list{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+img{
+    height: 200;
+    width: 300px;
+    margin: 10px;
+}

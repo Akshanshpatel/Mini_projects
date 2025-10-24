@@ -12,7 +12,7 @@ for(let button of buttons){
             try {
                 input.value=eval(input.value)
             } catch (error) {
-                input.value='is ts tuff twin?'
+                input.value='bruhh??'
             }
         }
         else{
